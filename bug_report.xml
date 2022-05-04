@@ -1,1 +1,8 @@
-
+<xml>
+	<Id>:"B1"</Id>
+	<Summary>:"04 error is displayed"</Summary>
+	<Preconditions>:" "</Preconditions>
+	<Steps to reproduce>:"1. Go to http://www.example.com, 2. Click on Login button"</Steps to reproduce>
+	<Actual Result>:"404 error is displayed"</Actual Result>
+	<Expected Result>:"Authorization page is opened"</Expected Result>
+	<Attachments>:"http://prntscr.com/ic93kw"</Attachments>
